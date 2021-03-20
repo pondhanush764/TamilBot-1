@@ -14,12 +14,6 @@
 
 [![tamilbot logo](https://telegra.ph/file/2790938cacb9aa80d478c.jpg)](https://heroku.com/deploy?template=https://github.com/ivetri/tamiluserbot)
 
-[![Stars](https://img.shields.io/github/stars/Tamiluserbot/Tamilbot?style=flat-square&color=blue)](https://github.com/Tamiluserbot/tamilbot/stargazers)
-[![Forks](https://img.shields.io/github/forks/Tamiluserbot/Tamilbot?style=flat-square&color=blue)](https://github.com/Tamiluserbot/tamilbot/fork)
-[![Python Version](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Contributors](https://img.shields.io/github/contributors/Tamiluserbot/Tamilbot?style=flat-square&color=blue)](https://github.com/Tamiluserbot/Tamilbot/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Tamiluserbot/Tamilbot/blob/main/LICENSE)
-[![Size](https://img.shields.io/github/repo-size/Tamiluserbot/tamilbot?style=flat-square&color=blue)](https://github.com/Tamiluserbot/Tamilbot/)
 
 ## This is just heroku support source:
 Main source is here [main source](https://github.com/Ivetri/TamilBot) fork and give star to that repo.
