@@ -18,23 +18,23 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "https://my.telegram.org இருந்து பெறுங்கள்",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
+      "description": "https://my.telegram.org இருந்து பெறுங்கள்",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally",
+      "description": "generate_string_session.py Or https://repl.it/@Ivetri/TamilBot பயன்படுத்தி உருவாக்கவும்.",
       "value": ""
     },
     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
+      "description": "inline buttons உருவாக்க தேவை. [BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள். உங்கள் போட்டின் Token-ஐ பெறுங்கள்",
       "value": ""
     },
     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
+      "description": "inline buttons உருவாக்க தேவை.[BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள்.உங்கள் போட்டின் UserName-ஐ பெறுங்கள்.",
       "value": ""
     },
     "COMMAND_HAND_LER": {
@@ -48,12 +48,12 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
+      "description": "Go to https://dashboard.heroku.com/account, கீழே சென்று அழுத்தவும் Reveal API.Update Plugin வேலை செய்ய தேவை",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "YOUR app name ",
+      "description": "உங்கள் Heroku App பெயர் ",
       "value": "",
       "required": false
     },
