@@ -14,7 +14,7 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "give your name",
+      "description": "உங்கள் Telegram Account பெயரை பதிவிடவும்",
       "value": ""
     },
     "APP_ID": {
@@ -58,14 +58,14 @@
       "required": false
     },
     "PRIVATE_GROUP_ID": {
-      "description": "its for pm permit create group get group id . id must start with -100",
+      "description": "Pm Permit வேலை செய்ய தேவை. Private Group I'd -ஐ இடவும். id must start with -100. Ask @TamilSupport",
       "value": "",
       "required": false
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "Same as abouve ",
+      "description": "Pm Permit வேலை செய்ய தேவை. Private Group I'd -ஐ இடவும்.  id must start with -100. Ask @TamilSupport.",
       "value": "",
-      "required": false
+       "required": false
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
@@ -73,7 +73,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "if you need custom deploy then type your git repo link. ie old or new",
+      "description": "உங்களுக்கு புதிய Bot தேவைப்பட்டால், TamilBotNew எனவும்,  பழைய Bot தேவைப்பட்டால், TamilBotOld எனவும் பதிவிடவும்.",
       "value": "TamilBotOld",
       "required": false
     }
