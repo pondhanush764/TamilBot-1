@@ -1,11 +1,11 @@
 # TamilUserBot
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/TamilUserBot/tamilbot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/TamilUserBot/tamilbot"> <img src="https://img.shields.io/github/repo-size/ivetri/tamiluserbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TamilUserBot/tamilbot/commits/prince"> <img src="https://img.shields.io/github/last-commit/TamilUserBot/tamilbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TamilUserBot/tamilbot/issues"> <img src="https://img.shields.io/github/issues/ivetri/tamiluserbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TamilUserBot/tamilbot/network/members"> <img src="https://img.shields.io/github/forks/TamilUserBot/tamilbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/Tamilbots/tamilbot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Tamilbots/tamilbot"> <img src="https://img.shields.io/github/repo-size/ivetri/tamiluserbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Tamilbots/tamilbot/commits/prince"> <img src="https://img.shields.io/github/last-commit/TamilUserBot/tamilbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Tamilbots/tamilbot/issues"> <img src="https://img.shields.io/github/issues/Tamilbots/Tamilbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Tamilbots/tamilbot/network/members"> <img src="https://img.shields.io/github/forks/Tamilbots/tamilbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
