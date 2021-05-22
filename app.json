@@ -62,7 +62,7 @@
       "value": "",
       "required": false
     },
-    "PRIVATE_GROUP_BOT_ID": {
+    "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Pm Permit வேலை செய்ய தேவை. Private Group I'd -ஐ இடவும்.  id must start with -100. Ask @TamilSupport.",
       "value": "",
        "required": false
