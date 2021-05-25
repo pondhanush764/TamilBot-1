@@ -29,7 +29,7 @@
       "description": "generate_string_session.py Or https://replit.com/@Ivetri/TamilBots#main.py பயன்படுத்தி உருவாக்கவும்.",
       "value": ""
     },
-    "TG_BOT_USER_NAME_BF_HER": {
+    "TG_BOT_USERNAME": {
       "description": "inline buttons உருவாக்க தேவை. [BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள். உங்கள் போட்டின் Token-ஐ பெறுங்கள்",
       "value": ""
     },
