@@ -16,32 +16,26 @@
     "ALIVE_NAME": {
       "description": "உங்கள் Telegram Account பெயரை பதிவிடவும்",
       "value": ""
-      "required": true
     },
     "APP_ID": {
       "description": "https://my.telegram.org இருந்து பெறுங்கள்",
       "value": ""
-      "required": true
     },
     "API_HASH": {
       "description": "https://my.telegram.org இருந்து பெறுங்கள்",
       "value": ""
-      "required": true
     },
     "STRING_SESSION": {
       "description": "generate_string_session.py Or https://repl.it/@Ivetri/TamilBot பயன்படுத்தி உருவாக்கவும்.",
       "value": ""
-      "required": true
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "inline buttons உருவாக்க தேவை. [BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள். உங்கள் போட்டின் Token-ஐ பெறுங்கள்",
       "value": ""
-      "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "inline buttons உருவாக்க தேவை.[BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள்.உங்கள் போட்டின் UserName-ஐ பெறுங்கள்.",
       "value": ""
-      "required": true
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
