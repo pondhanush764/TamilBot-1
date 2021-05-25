@@ -33,7 +33,7 @@
       "description": "inline buttons உருவாக்க தேவை. [BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள். உங்கள் போட்டின் Token-ஐ பெறுங்கள்",
       "value": ""
     },
-    "TG_BOT_TOKEN_BF_HER": {
+    "TG_BOT_TOKEN": {
       "description": "inline buttons உருவாக்க தேவை.[BotFather](http://telegram.dog/BotFather) இல் ஒரு போட் செய்யுங்கள்.உங்கள் போட்டின் UserName-ஐ பெறுங்கள்.",
       "value": ""
     },
