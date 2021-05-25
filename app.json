@@ -74,8 +74,8 @@
     },
     "UPSTREAM_REPO": {
       "description": "உங்களுக்கு புதிய Bot தேவைப்பட்டால், TamilBotNew எனவும்,  பழைய Bot தேவைப்பட்டால், TamilBotOld எனவும் பதிவிடவும்.",
-      "value": "TamilBotOld",
-      "required": false
+      "value": "",
+      "required": true
     }
   },
   "addons": [{
