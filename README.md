@@ -16,14 +16,14 @@
 
 
 ## This is just heroku support source:
-Main source is here [main source](https://github.com/Ivetri/TamilBot) fork and give star to that repo.
+Main source is here [Main Source](https://github.com/Ivetri/TamilBot) fork and give star to that repo.
 
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ftamilbots%2FTamilBot&template=https%3A%2F%2Fgithub.com%2Ftamilbots%2FTamilBot)
 
 ###  GET STRING SESSION FROM REPL RUN
 
- [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://generatestringsession.ivetri.repl.run/)
+ [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@Ivetri/TamilBots#main.py)
 
  [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://repl.it/@ImSaravanakrish/Tamilbot#main.py)
 
